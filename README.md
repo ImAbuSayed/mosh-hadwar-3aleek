@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نورك في قلبي دليل
+> عيني سهرانة والليل طويل
+> شوقي ليك نار مفيش منها بديل
+> تعالى في حضني يغيب المستحيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
