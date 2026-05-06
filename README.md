@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hadwar-3aleek/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Mosh Hadwar 3aleek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
