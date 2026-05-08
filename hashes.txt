@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mosh Hadwar 3aleek
+
+This log tracks the cryptographic history and versioning for the song **Mosh Hadwar 3aleek** (mosh-hadwar-3aleek).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T23:53:40.604310 | `v1` | `f9b8ed3f117d9a8dcca45f2cf31e0acc6768b30f70498ffc53ab3372e4570eb5` | `8146c8c668e8e72ce32fbe30e79feb1c4b4a6bae95b52c15c0dd33e0d2c75991` | `2026-05-08_mosh-hadwar-3aleek-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
